@@ -1,0 +1,57 @@
+body {
+    background-color: burlywood;
+    background-image: url(https://f001.backblazeb2.com/file/papocine/2016/06/20190107-banner.jpg);
+    background-size: 50%;
+    background-position: center;
+    color: #771515;
+    margin: 50px;
+    margin-left: 50px;
+    font-family: "Playfair Display", serif;
+}
+
+header {
+    border-bottom: solid 2px #e4b4b4;
+    padding: 20px;
+    font-size: 35px;
+    font-style: oblique;
+    margin: 20px;
+    color: white;
+}
+
+section {
+    background-color: #bb8d6d;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1{font-size: 30px;
+
+}
+
+p{font-size: 20px;
+
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-video {
+background-color: #771515;
+padding-bottom: 40px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.categoria-video{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
